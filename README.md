@@ -4,7 +4,7 @@
     </a>
 </p>
 
-# FS-Blog
+# JS-Blog
 
 
 
@@ -67,9 +67,9 @@
 
 ### 4. 联系方式
 
-QQ：1146556298
+QQ：1164869474
 
-Email：zhengbaole_1996@163.com
+Email：goujiangshun@sina.com
 
 
 ### 5. 相关链接
@@ -82,4 +82,4 @@ Email：zhengbaole_1996@163.com
 
 [Apache License 2.0](http://apache.org/licenses/LICENSE-2.0.html)
 
-Copyright (c) 2017-present, JamesZBL
+Copyright (c) 2019-present, GJS
