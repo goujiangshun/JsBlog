@@ -72,13 +72,9 @@ QQ：1164869474
 Email：goujiangshun@sina.com
 
 
-### 5. 相关链接
 
-- FS-Blog [在线 Demo](http://fsblog.letec.top)
 
-- 我的个人博客 [James' Blog](http://james.letec.top)
-
-### 6. 开源协议
+### 5. 开源协议
 
 [Apache License 2.0](http://apache.org/licenses/LICENSE-2.0.html)
 
